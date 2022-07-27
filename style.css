@@ -1,13 +1,12 @@
 body{
     font-family: poppins;
 }
-
+.slider img{
+    min-height: 55vh;
+}
 .cover-img-brightness{
     filter: brightness(80%);
 }
 .theme-color{
     background: rgba(40, 155, 222, 1);
-}
-.join-info{
-    width: fit-content !important;
 }
