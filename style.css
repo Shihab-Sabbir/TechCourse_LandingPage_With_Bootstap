@@ -2,7 +2,7 @@ body{
     font-family: poppins;
 }
 .slider img{
-    min-height: 55vh;
+    min-height: 40vh;
 }
 .cover-img-brightness{
     filter: brightness(80%);
@@ -12,4 +12,9 @@ body{
 }
 .text-justify{
     text-align: justify;
+}
+@media screen and (max-width:600px) {
+.slider {
+    font-size: 50%;
+}
 }
