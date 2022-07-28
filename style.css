@@ -10,3 +10,6 @@ body{
 .theme-color{
     background-color: rgba(40, 155, 222, 1);
 }
+.text-justify{
+    text-align: justify;
+}
