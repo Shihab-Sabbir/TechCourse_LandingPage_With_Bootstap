@@ -8,5 +8,5 @@ body{
     filter: brightness(80%);
 }
 .theme-color{
-    background: rgba(40, 155, 222, 1);
+    background-color: rgba(40, 155, 222, 1);
 }
